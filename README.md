@@ -1,2 +1,2 @@
 # CityDb
-GetTicketMVC migration 
+GetTicketMVC migration -Vektörel Akademi bitirme projesi
